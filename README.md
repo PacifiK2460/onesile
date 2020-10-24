@@ -1,2 +1,2 @@
-# onesile
-One Site Learning's official GitHub repository.
+# beta.onesile
+One Site Learning's official Beta GitHub repository.
